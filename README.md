@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Cześć, jestem Jędrzej Dzierżak
 
-<!--
-**JedrzejWebDev/JedrzejWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer z pasją do Reacta i UI designu.
+Uwielbiam tworzyć nowoczesne i szybkie aplikacje webowe.
 
-Here are some ideas to get you started:
+🚀 Języki, Technologie, Narzędzia
+- HTML, CSS, JavaScript (ES6), TypeScript, React, Redux, Bootstrap, Git, ESLint, Prettier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Aktualnie:
+Utrwalam umiejętności które zdążyłem już zdobyć
+
+📂 Moje projekty
+1) 
+Nazwa: 3D-shapes
+Link: https://github.com/JedrzejWebDev/3D-shapes
+Krótki opis: wybieranie różnych kształtów w 3D
+Narzędzia: react-three, tailwind, zustand
+2)
+Nazwa: weather-app
+Link: https://github.com/JedrzejWebDev/weather-app
+Krótki opis: wyświetlanie aktualnej pogody
+Narzędzia: react-query, vitest
+3)
+Nazwa: connect-four
+Link: https://github.com/JedrzejWebDev/connect-four
+Krótki opis: popularna gra ze standardowymi zasadami
+Narzędzia: react-redux, context, react-icons, react-modal, recharts
+4) 
+Nazwa: shop-app
+Link: https://github.com/JedrzejWebDev/shop-app
+Krótki opis: sklep internetowy z podstawowymi funkcjami
+Narzędzia: react-redux, bootstrap, react-icons, react-router-dom
+5)
+Nazwa: bulletinBoard
+Link: https://github.com/JedrzejWebDev/bulletinBoard
+Krótki opis: anonimowa tablica ogłoszeń
+Narzędzia: NextJS, mongoose, bootstrap, react-hook-form
+
+📫 Kontakt:
+email -> jedrzej1218@gmail.com
