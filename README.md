@@ -9,12 +9,12 @@ Uwielbiam tworzyć nowoczesne i szybkie aplikacje webowe.
 🧠 Aktualnie:
 Utrwalam umiejętności, które zdążyłem już zdobyć
 
-📂 Moje projekty
-1) 
-Nazwa: 3D-shapes
-Link: https://github.com/JedrzejWebDev/3D-shapes
-Krótki opis: wybieranie różnych kształtów w 3D
-Narzędzia: react-three, tailwind, zustand
+📂 Moje projekty  
+1)  
+Nazwa: 3D-shapes  
+Link: https://github.com/JedrzejWebDev/3D-shapes  
+Krótki opis: wybieranie różnych kształtów w 3D  
+Narzędzia: react-three, tailwind, zustand  
 2)
 Nazwa: weather-app
 Link: https://github.com/JedrzejWebDev/weather-app
