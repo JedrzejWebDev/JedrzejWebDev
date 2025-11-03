@@ -4,7 +4,7 @@
 Uwielbiam tworzyć nowoczesne i szybkie aplikacje webowe.
 
 🚀 Języki, Technologie, Narzędzia
-- HTML, CSS, JavaScript (ES6), TypeScript, React, Redux, Bootstrap, Git, ESLint, Prettier
+- HTML,  - CSS,  - JavaScript (ES6),  - TypeScript,  - React,  - Redux,  - Bootstrap,  - Git,  - ESLint,  - Prettier
 
 🧠 Aktualnie:
 Utrwalam umiejętności, które zdążyłem już zdobyć
