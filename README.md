@@ -1,12 +1,12 @@
 # 👋 Cześć, jestem Jędrzej Dzierżak
 
-## 💻 Frontend Developer z pasją do **Reacta** i **UI designu**.
-Uwielbiam tworzyć **nowoczesne i szybkie aplikacje webowe**.
+## 💻 Frontend Developer z pasją do **Reacta** i **UI designu**
+Uwielbiam tworzyć **nowoczesne i szybkie aplikacje webowe**
 
 ## 🚀 Języki, Technologie, Narzędzia  
 HTML, CSS, JavaScript (ES6), TypeScript, React, Redux, Bootstrap, Git, ESLint, Prettier
 
-## 🧠 Aktualnie:
+## 🧠 Aktualnie
 Utrwalam umiejętności, które zdążyłem już zdobyć
 
 ## 📂 Moje projekty  
